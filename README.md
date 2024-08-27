@@ -43,7 +43,7 @@ I'm currently diving deeper into:
     Scrum and Agile
 
 🛠️ Projects
-ShopSport Sneakers' E-commerce ()
+ShopSport Sneakers' E-commerce (https://github.com/SantiagoVillagra/pf-henry-trabajofinal.git)
 
 An intuitive web application (currently not responsive) designed for an e-commerce platform, built using a robust stack of technologies including React, Redux, Styled Components, Sequelize, Node.js, Express, JavaScript, HTML, CSS, and Bootstrap. The development process was managed with Scrum methodology and versioned using Git.
 
