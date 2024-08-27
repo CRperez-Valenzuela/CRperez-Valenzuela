@@ -53,7 +53,7 @@ The backend is powered by Sequelize with SQL databases managed through pgAdmin a
 
 This project is the final assignment from Henry Academy, completed in collaboration with three other bootcamp peers. It was developed and tested in a Windows environment, ensuring compatibility across different platforms.
 
-Countries ()
+Countries (https://github.com/CRperez-Valenzuela/cr-pi-countries-main.git)
 
 This individual project was developed to apply the skills learned during the Henry bootcamp, using technologies limited to those required for completion, such as React, Redux, Styled Components, Sequelize, Node, and pgAdmin. The application features a simple country search functionality, where users can view a card displaying the country’s details along with its flag. Additionally, there is a form to create new tourist activities associated with the selected country, considering factors like difficulty and the appropriate season for the activity. The application also includes combined filters, pagination, and other features that enhance its usability and visual appeal.
 
