@@ -1,4 +1,4 @@
-# CiroRPerezValenzuela
+# CRperez-Valenzuela
 About me
 👋 Hello, I'm Ciro Pérez!
 🚀 FullStack Developer | Javascript | React | Redux | Sequelize | Node | Scrum enthusiastic
