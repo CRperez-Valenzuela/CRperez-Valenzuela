@@ -1,5 +1,6 @@
 # CRperez-Valenzuela
 About me
+
 👋 Hello, I'm Ciro Pérez!
 🚀 FullStack Developer | Javascript | React | Redux | Sequelize | Node | Scrum enthusiastic
 
@@ -39,11 +40,11 @@ I'm a passionate developer with a strong background in both front-end and back-e
 
 I'm currently diving deeper into:
 
-    TypeScript
-    Scrum and Agile
+    Python
+    Artificial Inteligence
 
 🛠️ Projects
-ShopSport Sneakers' E-commerce (https://github.com/SantiagoVillagra/pf-henry-trabajofinal.git)
+ShopSport Sneakers' E-commerce (https://github.com/SantiagoVillagra/pf-henry-trabajofinal.git) 
 
 An intuitive web application (currently not responsive) designed for an e-commerce platform, built using a robust stack of technologies including React, Redux, Styled Components, Sequelize, Node.js, Express, JavaScript, HTML, CSS, and Bootstrap. The development process was managed with Scrum methodology and versioned using Git.
 
@@ -53,7 +54,7 @@ The backend is powered by Sequelize with SQL databases managed through pgAdmin a
 
 This project is the final assignment from Henry Academy, completed in collaboration with three other bootcamp peers. It was developed and tested in a Windows environment, ensuring compatibility across different platforms.
 
-Countries (https://github.com/CRperez-Valenzuela/cr-pi-countries-main.git)
+Countries (https://github.com/CRperez-Valenzuela/cr-pi-countries-main.git) today's upgraded version (https://github.com/CRperez-Valenzuela/Countries-Explorer)
 
 This individual project was developed to apply the skills learned during the Henry bootcamp, using technologies limited to those required for completion, such as React, Redux, Styled Components, Sequelize, Node, and pgAdmin. The application features a simple country search functionality, where users can view a card displaying the country’s details along with its flag. Additionally, there is a form to create new tourist activities associated with the selected country, considering factors like difficulty and the appropriate season for the activity. The application also includes combined filters, pagination, and other features that enhance its usability and visual appeal.
 
